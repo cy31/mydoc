@@ -1,5 +1,6 @@
 
 - **IntelliJ Idea 常用快捷键列表**
+```
 Alt+回车 导入包,自动修正
 Ctrl+N  查找类
 Ctrl+Shift+N 查找文件
@@ -37,9 +38,10 @@ Ctrl+W 选中代码，连续按会有其他效果
 选中文本，按Alt+F3 ，逐个往下查找相同文本，并高亮显示。
 Ctrl+Up/Down 光标跳转到第一行或最后一行下
 Ctrl+B 快速打开光标处的类或方法
-
+```
 
 - **最常用快捷键**
+```
 1.Ctrl＋E，可以显示最近编辑的文件列表
 2.Shift＋Click可以关闭文件
 3.Ctrl＋[或]可以跳到大括号的开头结尾
@@ -57,8 +59,10 @@ Ctrl+B 快速打开光标处的类或方法
 15.Ctrl＋Alt＋V 可以引入变量。例如把括号内的SQL赋成一个变量
 16.Ctrl＋Alt＋T可以把代码包在一块内，例如try/catch
 17.Alt＋Up and Alt＋Down可在方法间快速移动
+```
 
 - **下面的不是很有用**
+```
 18.在一些地方按Alt＋Enter可以得到一些Intention Action，例如将”==”改为”equals()”
 19.Ctrl＋Shift＋Alt＋N可以快速打开符号
 20.Ctrl＋Shift＋Space在很多时候都能够给出Smart提示
@@ -74,6 +78,7 @@ Ctrl+B 快速打开光标处的类或方法
 30.Ctrl＋Alt＋Up /Ctrl＋Alt＋Down可以快速跳转搜索结果
 31.Ctrl＋Shift＋J可以整合两行
 32.Alt＋F8是计算变量值
+```
 
 - **参考链接**
 [十大Intellij IDEA快捷键](http://blog.csdn.net/dc_726/article/details/42784275#t1)
